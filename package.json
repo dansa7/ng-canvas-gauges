@@ -47,7 +47,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "@types/canvas-gauges": "^2.1.1",
-    "canvas-gauges": "^2.1.5",
+    "canvas-gauges": "github:dansa7/canvas-gauges.git",
     "core-js": "^2.5.4",
     "rx-dom-html": "^7.0.3",
     "rxjs": "~6.3.3",
